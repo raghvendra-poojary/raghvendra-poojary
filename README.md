@@ -11,9 +11,11 @@
 
 ## Hello, I'm Raghvendra
 
-A BCA graduate based in **Mumbai**, building a career in **data analytics**. I enjoy working through business questions, checking the data behind the numbers, and presenting findings that help people make informed decisions.
+A BCA graduate based in **Mumbai**, building a career in **Data**. I enjoy working through business questions, checking the data behind the numbers, and presenting findings that help business make informed decisions.
 
-My portfolio brings together **SQL, Python, Power BI, and Excel**, with a focus on finance, customer behaviour, and operational performance.
+My portfolio brings together **SQL, Python, Power BI, and Excel**, with a focus on cleaning and exploring data, identify patterns, and communicate findings through clear dashboards and practical recommendations.
+
+As an aspiring Data Analyst pursuing data science, I’m also exploring how generative AI can support analytical workflows—from developing questions and refining code to communicating insights. My approach is to check AI-assisted work against the data and apply critical thinking before drawing conclusions.
 
 ## My toolkit
 
