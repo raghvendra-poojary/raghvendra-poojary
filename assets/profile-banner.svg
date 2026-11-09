@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Raghvendra Poojary — Data Analyst Portfolio</title><desc id="desc">SQL, Python, Power BI and Excel. From business questions to clear decisions.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1225"/><stop offset="1" stop-color="#123849"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#6EE7D1" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/><rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+<rect x="54" y="54" width="5" height="226" rx="2" fill="#5EEAD4"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="82" y="79" fill="#5EEAD4" font-size="15" letter-spacing="4">DATA ANALYST PORTFOLIO</text>
+<text x="78" y="143" fill="#F8FAFC" font-size="48" font-weight="700">Raghvendra Poojary</text>
+<text x="82" y="189" fill="#C6D6E3" font-size="23">From business questions to clear decisions.</text>
+<text x="82" y="244" fill="#F0FDFA" font-size="18" letter-spacing="1">SQL  /  PYTHON  /  POWER BI  /  EXCEL</text>
+<text x="82" y="279" fill="#91AABB" font-size="15">Mumbai, India</text></g>
+<g transform="translate(900 79)"><rect width="238" height="186" rx="16" fill="#0B1729" stroke="#4B9B9D" stroke-opacity=".4"/><g fill="#2A5667"><rect x="27" y="111" width="27" height="48" rx="4"/><rect x="72" y="82" width="27" height="77" rx="4"/><rect x="117" y="100" width="27" height="59" rx="4"/><rect x="162" y="50" width="27" height="109" rx="4"/></g><path d="M38 98L85 64L131 78L178 29" fill="none" stroke="#5EEAD4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g fill="#5EEAD4"><circle cx="38" cy="98" r="5"/><circle cx="85" cy="64" r="5"/><circle cx="131" cy="78" r="5"/><circle cx="178" cy="29" r="5"/></g></g>
+</svg>
